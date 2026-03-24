@@ -1,0 +1,834 @@
+  [
+    {
+        "Espaço": "Sala 10",
+        "Data": "24/03/2026",
+        "HorárioInicial": "07:30",
+        "HorárioFinal": "22:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Professor Joaquim Lauer",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "09:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 11",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "11:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 12",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "11:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Professor Joaquim Lauer",
+        "Data": "24/03/2026",
+        "HorárioInicial": "10:00",
+        "HorárioFinal": "12:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Professor Joaquim Lauer",
+        "Data": "24/03/2026",
+        "HorárioInicial": "13:30",
+        "HorárioFinal": "15:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 11",
+        "Data": "24/03/2026",
+        "HorárioInicial": "13:30",
+        "HorárioFinal": "17:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 12",
+        "Data": "24/03/2026",
+        "HorárioInicial": "15:00",
+        "HorárioFinal": "17:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Professor Joaquim Lauer",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:00",
+        "HorárioFinal": "19:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório de Medicina",
+        "Data": "24/03/2026",
+        "HorárioInicial": "18:00",
+        "HorárioFinal": "21:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 11",
+        "Data": "24/03/2026",
+        "HorárioInicial": "18:00",
+        "HorárioFinal": "22:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 12",
+        "Data": "24/03/2026",
+        "HorárioInicial": "18:00",
+        "HorárioFinal": "22:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório de Odontologia",
+        "Data": "24/03/2026",
+        "HorárioInicial": "18:30",
+        "HorárioFinal": "21:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Professor Joaquim Lauer",
+        "Data": "24/03/2026",
+        "HorárioInicial": "19:00",
+        "HorárioFinal": "20:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 44",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "10:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 26",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "11:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 43",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "12:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 19",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "18:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Dorival Moreschi",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:30",
+        "HorárioFinal": "11:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 31",
+        "Data": "24/03/2026",
+        "HorárioInicial": "13:30",
+        "HorárioFinal": "16:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Dona Etelvina",
+        "Data": "24/03/2026",
+        "HorárioInicial": "13:30",
+        "HorárioFinal": "17:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 44",
+        "Data": "24/03/2026",
+        "HorárioInicial": "13:30",
+        "HorárioFinal": "17:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala Stephen Hawking",
+        "Data": "24/03/2026",
+        "HorárioInicial": "14:00",
+        "HorárioFinal": "16:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 43",
+        "Data": "24/03/2026",
+        "HorárioInicial": "14:00",
+        "HorárioFinal": "17:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 35",
+        "Data": "24/03/2026",
+        "HorárioInicial": "15:00",
+        "HorárioFinal": "16:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 45",
+        "Data": "24/03/2026",
+        "HorárioInicial": "15:30",
+        "HorárioFinal": "19:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 34",
+        "Data": "24/03/2026",
+        "HorárioInicial": "16:30",
+        "HorárioFinal": "18:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 54",
+        "Data": "24/03/2026",
+        "HorárioInicial": "16:30",
+        "HorárioFinal": "18:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 26",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:00",
+        "HorárioFinal": "18:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 46",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:00",
+        "HorárioFinal": "18:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Dorival Moreschi",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:00",
+        "HorárioFinal": "19:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 20/21",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:30",
+        "HorárioFinal": "18:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 40",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:30",
+        "HorárioFinal": "19:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 44",
+        "Data": "24/03/2026",
+        "HorárioInicial": "19:00",
+        "HorárioFinal": "20:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 45",
+        "Data": "24/03/2026",
+        "HorárioInicial": "19:30",
+        "HorárioFinal": "21:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 44",
+        "Data": "24/03/2026",
+        "HorárioInicial": "20:30",
+        "HorárioFinal": "22:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 3",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:30",
+        "HorárioFinal": "19:00",
+        "Bloco": "Bloco 08",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 4",
+        "Data": "24/03/2026",
+        "HorárioInicial": "07:30",
+        "HorárioFinal": "12:00",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 5",
+        "Data": "24/03/2026",
+        "HorárioInicial": "07:30",
+        "HorárioFinal": "12:00",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 27",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "12:00",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 1",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "22:30",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 26",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "22:30",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 23",
+        "Data": "24/03/2026",
+        "HorárioInicial": "09:00",
+        "HorárioFinal": "10:30",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Carlos Alexandre",
+        "Data": "24/03/2026",
+        "HorárioInicial": "14:00",
+        "HorárioFinal": "17:00",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 25",
+        "Data": "24/03/2026",
+        "HorárioInicial": "14:00",
+        "HorárioFinal": "17:00",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Carlos Alexandre",
+        "Data": "24/03/2026",
+        "HorárioInicial": "19:00",
+        "HorárioFinal": "22:30",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    }
+]
+
+```
+[
+    {
+        "Espaço": "Sala 10",
+        "Data": "24/03/2026",
+        "HorárioInicial": "07:30",
+        "HorárioFinal": "22:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Professor Joaquim Lauer",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "09:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 11",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "11:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 12",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "11:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Professor Joaquim Lauer",
+        "Data": "24/03/2026",
+        "HorárioInicial": "10:00",
+        "HorárioFinal": "12:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Professor Joaquim Lauer",
+        "Data": "24/03/2026",
+        "HorárioInicial": "13:30",
+        "HorárioFinal": "15:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 11",
+        "Data": "24/03/2026",
+        "HorárioInicial": "13:30",
+        "HorárioFinal": "17:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 12",
+        "Data": "24/03/2026",
+        "HorárioInicial": "15:00",
+        "HorárioFinal": "17:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Professor Joaquim Lauer",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:00",
+        "HorárioFinal": "19:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório de Medicina",
+        "Data": "24/03/2026",
+        "HorárioInicial": "18:00",
+        "HorárioFinal": "21:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 11",
+        "Data": "24/03/2026",
+        "HorárioInicial": "18:00",
+        "HorárioFinal": "22:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 12",
+        "Data": "24/03/2026",
+        "HorárioInicial": "18:00",
+        "HorárioFinal": "22:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório de Odontologia",
+        "Data": "24/03/2026",
+        "HorárioInicial": "18:30",
+        "HorárioFinal": "21:00",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Professor Joaquim Lauer",
+        "Data": "24/03/2026",
+        "HorárioInicial": "19:00",
+        "HorárioFinal": "20:30",
+        "Bloco": "Bloco 06",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 44",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "10:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 26",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "11:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 43",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "12:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 19",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "18:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Dorival Moreschi",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:30",
+        "HorárioFinal": "11:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 31",
+        "Data": "24/03/2026",
+        "HorárioInicial": "13:30",
+        "HorárioFinal": "16:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Dona Etelvina",
+        "Data": "24/03/2026",
+        "HorárioInicial": "13:30",
+        "HorárioFinal": "17:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 44",
+        "Data": "24/03/2026",
+        "HorárioInicial": "13:30",
+        "HorárioFinal": "17:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala Stephen Hawking",
+        "Data": "24/03/2026",
+        "HorárioInicial": "14:00",
+        "HorárioFinal": "16:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 43",
+        "Data": "24/03/2026",
+        "HorárioInicial": "14:00",
+        "HorárioFinal": "17:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 35",
+        "Data": "24/03/2026",
+        "HorárioInicial": "15:00",
+        "HorárioFinal": "16:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 45",
+        "Data": "24/03/2026",
+        "HorárioInicial": "15:30",
+        "HorárioFinal": "19:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 34",
+        "Data": "24/03/2026",
+        "HorárioInicial": "16:30",
+        "HorárioFinal": "18:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 54",
+        "Data": "24/03/2026",
+        "HorárioInicial": "16:30",
+        "HorárioFinal": "18:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 26",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:00",
+        "HorárioFinal": "18:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 46",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:00",
+        "HorárioFinal": "18:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Dorival Moreschi",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:00",
+        "HorárioFinal": "19:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 20/21",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:30",
+        "HorárioFinal": "18:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 40",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:30",
+        "HorárioFinal": "19:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 44",
+        "Data": "24/03/2026",
+        "HorárioInicial": "19:00",
+        "HorárioFinal": "20:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 45",
+        "Data": "24/03/2026",
+        "HorárioInicial": "19:30",
+        "HorárioFinal": "21:30",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 44",
+        "Data": "24/03/2026",
+        "HorárioInicial": "20:30",
+        "HorárioFinal": "22:00",
+        "Bloco": "Bloco 07",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 3",
+        "Data": "24/03/2026",
+        "HorárioInicial": "17:30",
+        "HorárioFinal": "19:00",
+        "Bloco": "Bloco 08",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 4",
+        "Data": "24/03/2026",
+        "HorárioInicial": "07:30",
+        "HorárioFinal": "12:00",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 5",
+        "Data": "24/03/2026",
+        "HorárioInicial": "07:30",
+        "HorárioFinal": "12:00",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 27",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "12:00",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 1",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "22:30",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 26",
+        "Data": "24/03/2026",
+        "HorárioInicial": "08:00",
+        "HorárioFinal": "22:30",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 23",
+        "Data": "24/03/2026",
+        "HorárioInicial": "09:00",
+        "HorárioFinal": "10:30",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Carlos Alexandre",
+        "Data": "24/03/2026",
+        "HorárioInicial": "14:00",
+        "HorárioFinal": "17:00",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Sala 25",
+        "Data": "24/03/2026",
+        "HorárioInicial": "14:00",
+        "HorárioFinal": "17:00",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    },
+    {
+        "Espaço": "Auditório Carlos Alexandre",
+        "Data": "24/03/2026",
+        "HorárioInicial": "19:00",
+        "HorárioFinal": "22:30",
+        "Bloco": "Bloco 10",
+        "Observação": "",
+        "Insumos": ""
+    }
+]
